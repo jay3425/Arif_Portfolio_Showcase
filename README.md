@@ -7,11 +7,7 @@ without a redeploy.
 
 ### ▶ Live site: **https://arif-hasan.vercel.app**
 
-> **This is a showcase, not the full source.** The complete project is private.
 > What's here is a curated set of components and documentation that demonstrate
-> how it's built. See [LICENSE](./LICENSE) — the code and design are all rights
-> reserved and not licensed for reuse.
-
 ---
 
 ## What it does
@@ -67,5 +63,4 @@ larger private codebase and are not meant to compile on their own.
 
 ---
 
-© 2026 Arif Hasan. All rights reserved. This project is source-available for
-viewing only — see [LICENSE](./LICENSE).
+can be reused, and copied for your work
